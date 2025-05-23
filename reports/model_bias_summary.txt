@@ -1,0 +1,5 @@
+Prediction Rates by Gender:
+gender
+Female    0.0
+Male      1.0
+Name: target, dtype: float64
